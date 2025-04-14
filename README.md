@@ -1,7 +1,11 @@
 
-# 🎯 FocusEd Platform
+# 🎯 FocusEd Platform 
 
 > **An intelligent eye-tracking tool to boost student engagement and retention during lectures or reading activities.**
+>
+> ### Created by:
+- **Nila Sadeeshkumar**
+- **Alicia Bochnak**
 
 ---
 
