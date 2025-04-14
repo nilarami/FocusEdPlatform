@@ -1,0 +1,19 @@
+.popup-content {
+    border-radius: 5px;
+    padding: 0.5rem;
+  }
+  
+  .popup-content {
+    background-color: rgb(41, 45, 62);
+    color: #fff;
+    border: 1px solid #9a9595;
+  }
+  
+  .popup-arrow > svg {
+    color: rgb(41, 45, 62);
+    stroke-width: 2px;
+    stroke: #9a9595;
+    stroke-dasharray: 30px;
+    stroke-dashoffset: -54px;
+  }
+  
